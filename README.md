@@ -35,18 +35,19 @@ This project demonstrates:
 - CSS3
 - JavaScript (ES6)
 
-------------------------------------------
-📂 Folder Structure
-------------------------------------------
+## 📂 Folder Structure
 
+```bash
 todo-app/
 │
 ├── src/
 │   ├── App.jsx
 │   ├── components/
-│   │     └── TodoItem.jsx
+│   │   └── TodoItem.jsx
 │   ├── App.css
 │   └── main.jsx
 │
 └── package.json
+```
+
 
